@@ -1,0 +1,23 @@
+{
+  "name": "SoBad_app",
+  "version": "1.0.0",
+  "description": "SoBad Bot App",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-limiter": "1.0.0",
+    "discord.js": "11.3.0",
+    "long": "3.2.0",
+    "prism-media": "0.0.1",
+    "safe-buffer": "5.1.1",
+    "snekfetch": "3.6.4",
+    "tweetnacl": "1.0.0",
+    "ultron": "1.1.1",
+    "ws": "4.0.0"
+  }
+}

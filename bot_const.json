@@ -1,0 +1,10 @@
+{
+    "BOT_TOKEN_KEY": "NDEwODc1NDY0MTY1NjIxNzcw.DVzxGA.aXLIksKYxJUCK9cLotL0AyO_97M",
+    "Stream_Role_Text": "Stream",
+    "Stream_Text_search": "twitch",
+    "Gen_Timeout" : 10000,
+
+    "Msg_Stream_Text_To":  "",   
+    "Msg_Stream_Text_Started":  " est en live, streaming ",   
+    "Msg_Stream_Text_End": " sur "
+}
